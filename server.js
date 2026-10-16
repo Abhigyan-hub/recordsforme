@@ -16,6 +16,7 @@ if (process.env.PUBLIC_DNS === 'true') {
 }
 
 const DEFAULT_ORIGINS = [
+    'https://ss.mozartdev.in',
     'https://enqury-form-ss.vercel.app',
     'http://localhost:5173',
     'http://127.0.0.1:5173',
